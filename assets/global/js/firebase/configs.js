@@ -1,0 +1,1 @@
+var firebaseConfig = {"apiKey":"Id eaque ullam dolor","authDomain":"Molestiae suscipit e","projectId":"Et molestiae sit te","storageBucket":"Molestias quos volup","messagingSenderId":"Necessitatibus fugit","appId":"Sed porro sed modi a","measurementId":"Nulla sit blanditii","serverKey":"Consequatur minima"}
